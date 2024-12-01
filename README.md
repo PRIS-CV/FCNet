@@ -5,7 +5,7 @@ Code release for FCNet: Extracting Undistorted Images for Fine-Grained Image Cla
 ### Introduction
 
 <p align="center">
-    <img src="Figure1.png" width= "480">
+    <img src="Figure1.png" width= "450">
 </p>
 
 In typical training frameworks like TensorFlow and PyTorch, images are usually resized into square dimensions at a specific resolution using bilinear interpolation or similar techniques. While this step standardizes input sizes, the process can severely distort critical image regions, making it harder to observe the fine details. 
