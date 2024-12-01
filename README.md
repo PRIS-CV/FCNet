@@ -1,6 +1,6 @@
 # FCNet
 
-Code release for FCNet: Extracting Undistorted Images for Fine-Grained Image Classification
+Code release for FCNet: Extracting Undistorted Images for Fine-Grained Image Classification.
 
 ### Introduction
 
