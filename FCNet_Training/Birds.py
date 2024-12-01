@@ -14,7 +14,7 @@ from torchvision.datasets.folder import *
 
 os.environ["CUDA_VISIBLE_DEVICES"] = "0, 1, 2, 3"
 
-parser = argparse.ArgumentParser(description='Training code for Birds_ResNet_224 on CUB-200-2011')
+parser = argparse.ArgumentParser(description='Training code for FCNet on CUB-200-2011')
 
 parser.add_argument('--data_url', default='/mnt/sdb/data/chenjunhan/Cross-Granularity/Birds/', type=str,
                     help='path to the dataset (CUB-200-2011)')
