@@ -12,6 +12,7 @@ In typical training frameworks like TensorFlow and PyTorch, images are usually r
 
 Ultramarine Flycatchers and Little Kingfishers belong to different biological orders, exhibit significant interclass differences. The two species are distinguished by their beak length. The crude application of resizing increases the difficulty of discrimination by compromising these critical regions, which is unacceptable in fine-grained tasks. 
 
+
 <p align="center">
     <img src="Figure2.png" width= "920">
 </p>
