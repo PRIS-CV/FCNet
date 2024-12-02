@@ -62,4 +62,4 @@ dataset
 Thanks for your attention!
 If you have any suggestion or question, you can leave a message here or contact us directly:
 - chenjunhan@bupt.edu.cn
-- changdongliang@bupt.edu.cn
+- changdongliang@pris-cv.cn
