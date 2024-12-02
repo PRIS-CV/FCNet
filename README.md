@@ -19,7 +19,7 @@ Ultramarine Flycatchers and Little Kingfishers belong to different biological or
 
 ### Requirement
  
-python 3.9
+python 3.8
 
 PyTorch >= 1.3.1
 
