@@ -3,7 +3,7 @@
 Code release for FCNet: Extracting Undistorted Images for Fine-Grained Image Classification.
 
 <p align="center">
-    <img src="Figure1.png" width= "1000">
+    <img src="Figure.png" width= "1000">
 </p>
 
 
