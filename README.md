@@ -2,7 +2,6 @@
 
 Code release for FCNet: Extracting Undistorted Images for Fine-Grained Image Classification.
 
-### Introduction
 <p align="center">
     <img src="Figure2.png" width= "1000">
 </p>
